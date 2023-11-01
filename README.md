@@ -10,3 +10,5 @@ Project: Í project sérðu allskonar sem leikurinn inniheldur, til dæmis kóð
 Hierarchy: þar sérðu hvaða hlutir eru í leiknum einmitt núna, þar er jörðin, skýin, bíllinn, vegurinn o.f.l Glugginn inniheldur líka myndavélina sem breytir því hvernig spilandi sér leikinn.
 
 Inspector: Inspector er glugginn sem að fyllist með upplýsingum um hlutinn sem þú hefur valinn. til dæmis ef maður ýtir á bílinn þá sést massi, kóðar, hraði og endalaust af upplýsingum sem hægt er að framleiða.
+
+[ hhtps:://screenpal.com/watch/c0XV3mVELKG](https://screenpal.com/watch/c0XV3mVELKG)https://screenpal.com/watch/c0XV3mVELKG
